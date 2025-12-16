@@ -1,4 +1,4 @@
-# Spotify-Wrapped-Data-Analysis-SQL-and-Power-BI
+# Spotify-Wrapped-Listening-Insights-Dashboard-SQL-and-Power-BI
 
 1. Project Title
    Spotify Wrapped Data Analysis- SQL and Power BI
