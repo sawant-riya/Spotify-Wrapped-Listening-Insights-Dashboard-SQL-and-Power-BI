@@ -32,9 +32,6 @@ A self-built “Spotify Wrapped” analytics dashboard that analyzes streaming h
 7.How this project helps?
   This project matters because it proves my ability to take raw data, analyze it using SQL, and build an interactive business-ready dashboard in Power BI —           demonstrating problem-solving, analytics, and storytelling skills.
 
-8.Business Insights
- -High listening volume (156K minutes) concentrated around hours X–Y and days ...  
- - Top artists and tracks listed in the report can be used to build personalized playlists and recommendations.  
- - Skip analysis (12.4%) highlights tracks with low engagement; recommend A/B test playlists.
+
 
 
