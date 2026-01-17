@@ -34,8 +34,11 @@ A self-built “Spotify Wrapped” analytics dashboard that analyzes streaming h
 
 8.Business Insights
 -A critical 81% drop in listening volume was observed between 7 PM and 8 PM, indicating evening content fatigue
+
 -Certain tracks and artists had consistently high skip rates, signaling poor recommendation fit
+
 -Listening activity peaks on weekdays, suggesting work-hour or commute listening behavior
+
 -Shuffle triggering dominated playback, showing preference for discovery-based listening
 
 
