@@ -33,13 +33,13 @@ A self-built “Spotify Wrapped” analytics dashboard that analyzes streaming h
   This project matters because it proves my ability to take raw data, analyze it using SQL, and build an interactive business-ready dashboard in Power BI —           demonstrating problem-solving, analytics, and storytelling skills.
 
 8.Business Insights
--A critical 81% drop in listening volume was observed between 7 PM and 8 PM, indicating evening content fatigue
+-Listening behavior is highly time-dependent, with two clear engagement peaks at 6 AM (10.3K listens) and 5 PM (9.4K listens), indicating strong commute-driven usage patterns and predictable daily demand cycles.
 
--Certain tracks and artists had consistently high skip rates, signaling poor recommendation fit
+-Skip behavior remains material (12.4%), suggesting content fatigue or misalignment during certain listening periods, which can be addressed through improved playlist sequencing and personalized recommendations.3
 
 -Listening activity peaks on weekdays, suggesting work-hour or commute listening behavior
 
--Shuffle triggering dominated playback, showing preference for discovery-based listening
+-Data-backed timing opportunities were identified for content releases and promotions, with morning and evening commute hours emerging as the highest-impact windows to maximize reach, session duration, and user engagement.
 
 
 
