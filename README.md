@@ -44,7 +44,7 @@
 
 7.How this project helps?
 
- This project demonstrates the ability to take a raw, messy event-level dataset (57K+ rows of device strings, timestamps,    and play flags) and turn it into structured, trustworthy KPIs and an interactive dashboard — the same underlying skill      streaming platforms use internally to track engagement, recommendation  quality, and usage patterns at scale.
+  This project demonstrates the ability to take a raw, messy event-level dataset (57K+ rows of device strings, timestamps,    and play flags) and turn it into structured, trustworthy KPIs and an interactive dashboard — the same underlying skill      streaming platforms use internally to track engagement, recommendation  quality, and usage patterns at scale.
   
 8.Business Insights
 
@@ -70,15 +70,15 @@
 
 10. Files in This Repository
 
-  spotify_wrapped_sql_project.sql — full SQL build: schema, cleaning, KPI queries, window-function rankings, and              categorization logic
+   spotify_wrapped_sql_project.sql — full SQL build: schema, cleaning, KPI queries, window-function rankings, and              categorization logic
 
-  Spotify Wrapped Listening Insights Dashboard SQL and Power BI.pbix — interactive 2-page Power BI dashboard
+   Spotify Wrapped Listening Insights Dashboard SQL and Power BI.pbix — interactive 2-page Power BI dashboard
 
 11. Dashboard Preview
 
-  Page 1 — Spotify Wrapped Summary (Yearly Overview): headline KPIs, minutes-over-time trend, top skipped tracks, top 10      artists.
+   Page 1 — Spotify Wrapped Summary (Yearly Overview): headline KPIs, minutes-over-time trend, top skipped tracks, top 10      artists.
 
-  Page 2 — Listening Behavior and Analytics: skip/shuffle/offline/incognito breakdown, reason-for-play-start composition,     hourly and day-of-week listening patterns.
+   Page 2 — Listening Behavior and Analytics: skip/shuffle/offline/incognito breakdown, reason-for-play-start composition,     hourly and day-of-week listening patterns.
  
 
 
